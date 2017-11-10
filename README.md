@@ -12,3 +12,6 @@ use it like
 ```html
 <input type="text" v-georgian>
 ```
+
+#### Demo
+![Alt Text](./demo.gif)
