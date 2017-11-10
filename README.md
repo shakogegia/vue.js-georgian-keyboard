@@ -2,7 +2,7 @@
 ### Georgian Keyboard for Vue.js
 
 #### Install
-include to your html file
+include into your html file
 ```html
 <script src="https://cdn.rawgit.com/shakogegia/vue.js-georgian-keyboard/master/vuejs_georgian_keyboard.js"></script>
 ```
