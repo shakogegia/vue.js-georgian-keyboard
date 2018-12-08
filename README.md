@@ -4,7 +4,7 @@
 #### Install
 include into your html file
 ```html
-<script src="https://cdn.rawgit.com/shakogegia/vue.js-georgian-keyboard/master/vuejs_georgian_keyboard.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/shakogegia/vue.js-georgian-keyboard/vuejs_georgian_keyboard.js"></script>
 ```
 
 #### Usage
